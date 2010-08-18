@@ -156,7 +156,8 @@ a.rss_logo:hover {
 .project_list,
 .shortlog,
 .tree,
-.commit_search {
+.commit_search,
+.projsearch {
     width: 960px;
     margin: 0 auto 15px auto;
     border: 1px solid #d8d8d8;
@@ -208,7 +209,8 @@ th .header {
 .history,
 .list_head,
 .page_path,
-.search {
+.search,
+.projsearch {
     width: 948px;
     background: #f0f0f0;
     color: #545454;
